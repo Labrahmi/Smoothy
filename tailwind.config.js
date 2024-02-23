@@ -9,6 +9,9 @@ export default {
     extend: {
       fontFamily: {
         "roboto": ['Roboto', 'sans-serif'],
+      },
+      backgroundImage: {
+        'rhub-hero': "url('./back_hero.webp')",
       }
     },
   },
